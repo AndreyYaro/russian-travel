@@ -16,7 +16,7 @@
   .photo-grid{
     margin: 92px 48px;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 14px
+    grid-gap: 14px;
   }
 }
 @media screen and (min-width: 1280px) {
