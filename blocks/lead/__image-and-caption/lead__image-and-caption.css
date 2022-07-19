@@ -1,0 +1,12 @@
+.lead__image-and-caption{
+    margin: 0;
+    display: block;
+    position: relative;
+}
+@media screen and (min-width: 1024px) {
+    .lead__image-and-caption{
+      width: 90%;
+      max-width: 984px;
+      margin: 0 auto;
+    }
+  }
