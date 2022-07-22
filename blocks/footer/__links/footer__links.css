@@ -7,7 +7,6 @@
   .footer__links {
     flex-direction: row;
     margin: 0 24px 24px 24px;
-    position: relative;
   }
 }
 @media screen and (min-width: 1024px) {

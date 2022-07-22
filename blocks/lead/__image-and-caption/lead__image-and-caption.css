@@ -1,5 +1,6 @@
 .lead__image-and-caption{
     margin: 0;
+    padding: 0;
     display: block;
     position: relative;
 }
